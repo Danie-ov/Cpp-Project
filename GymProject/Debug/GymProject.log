@@ -1,0 +1,30 @@
+﻿  Instructor.cpp
+c:\users\user\source\repos\gymproject\gymproject\instructor.h(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\user\source\repos\gymproject\gymproject\employee.h(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\user\source\repos\gymproject\gymproject\instructor.h(5): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\user\source\repos\gymproject\gymproject\exercisemachine.h(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Date.cpp
+  Employee.cpp
+c:\users\user\source\repos\gymproject\gymproject\employee.h(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  ExerciseMachine.cpp
+c:\users\user\source\repos\gymproject\gymproject\exercisemachine.h(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  FireDepartmentLicense.cpp
+c:\users\user\source\repos\gymproject\gymproject\firedepartmentlicense.cpp(23): warning C4804: '>=': unsafe use of type 'bool' in operation
+  Gym.cpp
+c:\users\user\source\repos\gymproject\gymproject\exercisemachine.h(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\user\source\repos\gymproject\gymproject\instructor.h(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\user\source\repos\gymproject\gymproject\employee.h(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\user\source\repos\gymproject\gymproject\instructor.h(5): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  GymLicense.cpp
+  main.cpp
+c:\users\user\source\repos\gymproject\gymproject\instructor.h(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\user\source\repos\gymproject\gymproject\employee.h(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\user\source\repos\gymproject\gymproject\instructor.h(5): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\user\source\repos\gymproject\gymproject\exercisemachine.h(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  MinistryOfHealthLicense.cpp
+c:\users\user\source\repos\gymproject\gymproject\ministryofhealthlicense.cpp(23): warning C4804: '>=': unsafe use of type 'bool' in operation
+  Person.cpp
+  Trainee.cpp
+c:\users\user\source\repos\gymproject\gymproject\exercisemachine.h(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating Code...
+  GymProject.vcxproj -> C:\Users\user\source\repos\GymProject\Debug\GymProject.exe
